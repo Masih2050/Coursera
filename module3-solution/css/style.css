@@ -1,0 +1,45 @@
+body {
+  font-family: "Comic Neue", cursive;
+}
+
+h1 {
+  margin: 2rem 0 3rem;
+  font-weight: 700;
+}
+
+ul {
+  background-color: rgb(167, 167, 167);
+  margin-top: 0.5rem;
+  text-align: center;
+}
+li {
+  border: 1px solid;
+}
+
+.chicken-nav,
+.beef-nav {
+  border-bottom: 0;
+}
+
+.navbar {
+  padding: 0.5rem 2rem;
+}
+
+.bg-light {
+  background-color: rgb(205, 205, 205) !important;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 200%;
+}
+
+.container {
+  padding: 2rem 1.5rem;
+  width: 90%;
+  background-color: rgb(205, 205, 205);
+}
+
+p {
+  text-align: left;
+}
